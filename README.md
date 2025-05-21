@@ -1,4 +1,7 @@
 # Self-hosted AI Package My Version
+ this was all taken from cole's repo at https://github.com/coleam00/local-ai-packaged
+
+ i am just trimming the fact and making sur eit will run on my remote vm
 
 **Self-hosted AI Package** is an open, docker compose template that
 quickly bootstraps a fully featured Local AI and Low Code development
@@ -64,8 +67,8 @@ Before you begin, make sure you have the following software installed:
 
 Clone the repository and navigate to the project directory:
 ```bash
-git clone https://github.com/coleam00/local-ai-packaged.git
-cd local-ai-packaged
+git clone https://github.com/jtiger12/AUIDemo.git
+cd AUIDemo
 ```
 
 Before running the services, you need to set up your environment variables for Supabase following their [self-hosting guide](https://supabase.com/docs/guides/self-hosting/docker#securing-your-services).
