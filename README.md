@@ -1,7 +1,7 @@
 # Self-hosted AI Package My Version
  this was all taken from cole's repo at https://github.com/coleam00/local-ai-packaged
 
- i am just trimming the fact and making sur eit will run on my remote vm
+ i am just trimming the fat and making sure it will run on my remote vm
 
 **Self-hosted AI Package** is an open, docker compose template that
 quickly bootstraps a fully featured Local AI and Low Code development
