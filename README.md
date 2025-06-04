@@ -1,4 +1,4 @@
-# Self-hosted AI Package My Version
+# Self-hosted AI Package - My Version
  this was all taken from cole's repo at https://github.com/coleam00/local-ai-packaged
 
  i am just trimming the fat and making sure it will run on my remote vm
